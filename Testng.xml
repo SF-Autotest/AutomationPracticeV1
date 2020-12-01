@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > -->
+
+<suite name="AutomationPracticeV1">
+
+
+
+
+	<test name="AutomationPractice">
+		<classes>
+			<class name="com.AutomationPractice.TestCases.ShoppingBasket" />
+			<class name="com.AutomationPractice.TestCases.SummerDresses" />
+			<class name="com.AutomationPractice.TestCases.PriceRange" />
+			<class name="com.AutomationPractice.TestCases.CreateAccount" />
+			<class name="com.AutomationPractice.TestCases.StoresMap" />
+
+		</classes>
+
+	</test>
+
+</suite>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="13" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AutomationPracticeV1" duration-ms="83187" started-at="2020-12-01T12:00:52 GMT" finished-at="2020-12-01T12:02:15 GMT">
+    <groups>
+    </groups>
+    <test name="AutomationPractice" duration-ms="83187" started-at="2020-12-01T12:00:52 GMT" finished-at="2020-12-01T12:02:15 GMT">
+      <class name="com.AutomationPractice.TestCases.StoresMap">
+        <test-method status="PASS" signature="automationpracticepage()[pri:0, instance:com.AutomationPractice.TestCases.StoresMap@bd8db5a]" name="automationpracticepage" duration-ms="5234" started-at="2020-12-01T12:02:10 GMT" finished-at="2020-12-01T12:02:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticepage -->
+      </class> <!-- com.AutomationPractice.TestCases.StoresMap -->
+      <class name="com.AutomationPractice.TestCases.PriceRange">
+        <test-method status="PASS" signature="automationpracticepage()[pri:0, instance:com.AutomationPractice.TestCases.PriceRange@3043fe0e]" name="automationpracticepage" duration-ms="407" started-at="2020-12-01T12:01:11 GMT" finished-at="2020-12-01T12:01:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticepage -->
+      </class> <!-- com.AutomationPractice.TestCases.PriceRange -->
+      <class name="com.AutomationPractice.TestCases.CreateAccount">
+        <test-method status="PASS" signature="automationpracticepage()[pri:0, instance:com.AutomationPractice.TestCases.CreateAccount@78e67e0a]" name="automationpracticepage" duration-ms="58329" started-at="2020-12-01T12:01:11 GMT" finished-at="2020-12-01T12:02:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticepage -->
+      </class> <!-- com.AutomationPractice.TestCases.CreateAccount -->
+      <class name="com.AutomationPractice.TestCases.ShoppingBasket">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.AutomationPractice.TestCases.ShoppingBasket@76b0bfab]" name="initialize" is-config="true" duration-ms="2434" started-at="2020-12-01T12:00:52 GMT" finished-at="2020-12-01T12:00:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="automationpracticepage()[pri:0, instance:com.AutomationPractice.TestCases.ShoppingBasket@76b0bfab]" name="automationpracticepage" duration-ms="14814" started-at="2020-12-01T12:00:54 GMT" finished-at="2020-12-01T12:01:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticepage -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:com.AutomationPractice.TestCases.ShoppingBasket@76b0bfab]" name="TeardownTest" is-config="true" duration-ms="189" started-at="2020-12-01T12:02:15 GMT" finished-at="2020-12-01T12:02:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- com.AutomationPractice.TestCases.ShoppingBasket -->
+      <class name="com.AutomationPractice.TestCases.SummerDresses">
+        <test-method status="PASS" signature="automationpracticepage()[pri:0, instance:com.AutomationPractice.TestCases.SummerDresses@17d677df]" name="automationpracticepage" duration-ms="1750" started-at="2020-12-01T12:01:09 GMT" finished-at="2020-12-01T12:01:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticepage -->
+      </class> <!-- com.AutomationPractice.TestCases.SummerDresses -->
+    </test> <!-- AutomationPractice -->
+  </suite> <!-- AutomationPracticeV1 -->
+</testng-results>

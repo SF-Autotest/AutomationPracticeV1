@@ -1,0 +1,739 @@
+2020-11-23 11:16:47,242 [main] INFO ebanking - logger has created
+2020-11-23 11:18:55,015 [main] INFO ebanking - logger has created
+2020-11-23 11:19:05,015 [main] INFO ebanking - i am inside class
+2020-11-23 11:19:09,341 [main] INFO ebanking - i am inside class
+2020-11-23 11:21:47,288 [main] INFO ebanking - logger has created
+2020-11-23 11:21:47,307 [main] INFO ebanking - opening the webpage
+2020-11-23 11:22:01,109 [main] INFO ebanking - test passed
+2020-11-23 11:35:19,657 [main] INFO ebanking - logger has created
+2020-11-23 11:35:34,169 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-23 11:36:30,962 [main] INFO ebanking - logger has created
+2020-11-23 11:36:30,980 [main] INFO ebanking - opening the webpage
+2020-11-23 11:36:49,220 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-23 11:36:58,524 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 08:43:54,088 [main] INFO ebanking - logger has created
+2020-11-24 08:43:54,107 [main] INFO ebanking - opening the webpage
+2020-11-24 08:44:04,443 [main] INFO ebanking - ShoppingCart has delete button
+2020-11-24 08:44:06,468 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 08:44:15,793 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 08:59:14,405 [main] INFO ebanking - logger has created
+2020-11-24 08:59:14,427 [main] INFO ebanking - opening the web page
+2020-11-24 09:01:13,786 [main] INFO ebanking - logger has created
+2020-11-24 09:01:13,805 [main] INFO ebanking - opening the web page
+2020-11-24 09:01:24,992 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:01:27,048 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:11:43,340 [main] INFO ebanking - logger has created
+2020-11-24 09:11:43,365 [main] INFO ebanking - opening the web page
+2020-11-24 09:11:54,111 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:11:56,165 [main] INFO ebanking - item has not been deleted
+2020-11-24 09:11:58,193 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:23:23,038 [main] INFO ebanking - logger has created
+2020-11-24 09:23:23,058 [main] INFO ebanking - opening the web page
+2020-11-24 09:23:34,246 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:23:36,316 [main] INFO ebanking - item has not been deleted
+2020-11-24 09:23:40,348 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:32:06,053 [main] INFO ebanking - logger has created
+2020-11-24 09:32:06,069 [main] INFO ebanking - opening the web page
+2020-11-24 09:32:16,076 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:32:18,132 [main] INFO ebanking - item has been deleted
+2020-11-24 09:32:22,153 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:39:56,023 [main] INFO ebanking - logger has created
+2020-11-24 09:39:56,039 [main] INFO ebanking - opening the web page
+2020-11-24 09:40:15,891 [main] INFO ebanking - logger has created
+2020-11-24 09:40:15,907 [main] INFO ebanking - opening the web page
+2020-11-24 09:43:16,942 [main] INFO ebanking - logger has created
+2020-11-24 09:43:16,961 [main] INFO ebanking - opening the web page
+2020-11-24 09:43:27,831 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:43:37,924 [main] INFO ebanking - item has been deleted
+2020-11-24 09:43:37,942 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:44:31,134 [main] INFO ebanking - logger has created
+2020-11-24 09:44:31,150 [main] INFO ebanking - opening the web page
+2020-11-24 09:44:36,576 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 09:44:46,660 [main] INFO ebanking - item has been deleted
+2020-11-24 09:44:46,677 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 09:54:15,819 [main] INFO ebanking - logger has created
+2020-11-24 09:54:21,435 [main] INFO ebanking - sub navigation appears
+2020-11-24 09:55:07,800 [main] INFO ebanking - logger has created
+2020-11-24 09:55:19,138 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:17:29,293 [main] INFO ebanking - logger has created
+2020-11-24 10:17:34,864 [main] INFO ebanking - sub navigation appears
+2020-11-24 10:17:40,789 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:20:27,111 [main] INFO ebanking - logger has created
+2020-11-24 10:20:29,539 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:21:10,672 [main] INFO ebanking - logger has created
+2020-11-24 10:21:13,879 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:21:15,413 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:23:22,256 [main] INFO ebanking - logger has created
+2020-11-24 10:23:22,275 [main] INFO ebanking - opening the web page
+2020-11-24 10:23:27,424 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:23:37,485 [main] INFO ebanking - item has been deleted
+2020-11-24 10:23:37,503 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:23:38,681 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:24:54,331 [main] INFO ebanking - logger has created
+2020-11-24 10:24:54,350 [main] INFO ebanking - opening the web page
+2020-11-24 10:24:59,506 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:25:09,580 [main] INFO ebanking - item has been deleted
+2020-11-24 10:25:09,598 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:25:09,632 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:25:11,391 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:28:58,417 [main] INFO ebanking - logger has created
+2020-11-24 10:31:03,481 [main] INFO ebanking - logger has created
+2020-11-24 10:31:03,501 [main] INFO ebanking - opening the web page
+2020-11-24 10:31:08,488 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:31:18,588 [main] INFO ebanking - item has been deleted
+2020-11-24 10:31:18,606 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:31:18,640 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:31:20,421 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:34:02,306 [main] INFO ebanking - logger has created
+2020-11-24 10:34:02,325 [main] INFO ebanking - opening the web page
+2020-11-24 10:34:06,905 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:34:17,010 [main] INFO ebanking - item has been deleted
+2020-11-24 10:34:17,028 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:34:17,062 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:34:18,792 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:34:18,794 [main] INFO ebanking - inside price range
+2020-11-24 10:34:21,164 [main] INFO ebanking - slider has moved
+2020-11-24 10:38:31,278 [main] INFO ebanking - logger has created
+2020-11-24 10:38:31,299 [main] INFO ebanking - opening the web page
+2020-11-24 10:38:36,641 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:38:46,746 [main] INFO ebanking - item has been deleted
+2020-11-24 10:38:46,764 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:38:46,799 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:38:49,140 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:38:49,542 [main] INFO ebanking - slider has moved
+2020-11-24 10:38:50,719 [main] INFO ebanking - opening wepage again
+2020-11-24 10:53:06,269 [main] INFO ebanking - logger has created
+2020-11-24 10:53:06,296 [main] INFO ebanking - opening the web page
+2020-11-24 10:53:11,952 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 10:53:22,033 [main] INFO ebanking - item has been deleted
+2020-11-24 10:53:22,052 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 10:53:22,086 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 10:53:23,721 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-24 10:53:24,114 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-24 10:53:27,466 [main] INFO ebanking - i am inside class
+2020-11-24 10:53:31,776 [main] INFO ebanking - i am inside class
+2020-11-24 11:15:53,893 [main] INFO ebanking - logger has created
+2020-11-24 11:15:53,913 [main] INFO ebanking - opening the web page
+2020-11-24 11:16:01,187 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 11:16:11,270 [main] INFO ebanking - item has been deleted
+2020-11-24 11:16:11,295 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 11:16:11,334 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-24 11:16:29,806 [main] INFO ebanking - opening excel file
+2020-11-24 11:16:30,318 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:16:30,543 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:16:34,580 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 11:16:34,624 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:16:34,724 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:16:38,756 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 11:18:47,776 [main] INFO ebanking - logger has created
+2020-11-24 11:18:52,470 [main] INFO ebanking - opening excel file
+2020-11-24 11:18:52,834 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:18:53,044 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:18:57,090 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 11:18:57,162 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:18:57,272 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:19:01,302 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 11:23:05,167 [main] INFO ebanking - logger has created
+2020-11-24 11:23:09,569 [main] INFO ebanking - opening excel file
+2020-11-24 11:23:10,025 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:23:10,271 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:23:14,308 [main] INFO ebanking - banner not found fill the form
+2020-11-24 11:23:26,856 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 11:23:28,883 [main] INFO ebanking - test passed--my account displayed 
+2020-11-24 11:23:32,889 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:23:33,042 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:23:37,061 [main] INFO ebanking - banner not found fill the form
+2020-11-24 11:23:49,860 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 11:23:51,879 [main] INFO ebanking - test passed--my account displayed 
+2020-11-24 11:40:32,180 [main] INFO ebanking - logger has created
+2020-11-24 11:40:38,427 [main] INFO ebanking - opening excel file
+2020-11-24 11:40:38,893 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:40:39,148 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:40:43,197 [main] INFO ebanking - banner not found fill the form
+2020-11-24 11:40:56,084 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 11:40:58,128 [main] INFO ebanking - test passed--my account displayed 
+2020-11-24 11:41:02,840 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 11:41:02,988 [main] INFO ebanking - entered email from the excel file
+2020-11-24 11:41:07,014 [main] INFO ebanking - banner not found fill the form
+2020-11-24 11:41:22,002 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 11:41:24,044 [main] INFO ebanking - test passed--my account displayed 
+2020-11-24 13:40:25,543 [main] INFO ebanking - logger has created
+2020-11-24 13:40:31,909 [main] INFO ebanking - opening excel file
+2020-11-24 13:40:32,368 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:40:32,655 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:40:33,761 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 13:40:33,809 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:40:33,935 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:40:34,556 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 13:41:21,121 [main] INFO ebanking - logger has created
+2020-11-24 13:41:24,558 [main] INFO ebanking - opening excel file
+2020-11-24 13:41:25,020 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:41:25,249 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:41:35,331 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:41:50,165 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 13:41:50,188 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 13:41:52,877 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:41:53,038 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:42:03,099 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:42:18,411 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 13:42:18,432 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 13:46:04,845 [main] INFO ebanking - logger has created
+2020-11-24 13:46:08,567 [main] INFO ebanking - opening excel file
+2020-11-24 13:46:08,942 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:46:09,151 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:46:09,178 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:47:55,361 [main] INFO ebanking - logger has created
+2020-11-24 13:47:58,039 [main] INFO ebanking - opening excel file
+2020-11-24 13:47:58,440 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:47:58,647 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:47:58,674 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:49:27,745 [main] INFO ebanking - logger has created
+2020-11-24 13:49:30,414 [main] INFO ebanking - opening excel file
+2020-11-24 13:49:30,790 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:49:30,993 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:49:31,019 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:50:33,826 [main] INFO ebanking - logger has created
+2020-11-24 13:50:36,361 [main] INFO ebanking - opening excel file
+2020-11-24 13:50:36,730 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:50:36,934 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:50:36,960 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:50:53,333 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 13:50:53,356 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 13:50:53,376 [main] INFO ebanking - Test passed- user name displayed at top right corner
+2020-11-24 13:50:55,395 [main] INFO ebanking - sign out
+2020-11-24 13:50:55,398 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:50:55,539 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:50:56,164 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 13:57:48,597 [main] INFO ebanking - logger has created
+2020-11-24 13:57:51,221 [main] INFO ebanking - opening excel file
+2020-11-24 13:57:51,686 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:57:51,900 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:57:51,930 [main] INFO ebanking - banner not found fill the form
+2020-11-24 13:58:08,051 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 13:58:08,075 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 13:58:08,096 [main] INFO ebanking - Test passed- user name displayed at top right corner
+2020-11-24 13:58:09,959 [main] INFO ebanking - sign out
+2020-11-24 13:58:09,962 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 13:58:10,125 [main] INFO ebanking - entered email from the excel file
+2020-11-24 13:58:10,701 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 14:34:37,229 [main] INFO ebanking - logger has created
+2020-11-24 14:34:37,249 [main] INFO ebanking - opening the web page
+2020-11-24 14:34:42,059 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 14:34:52,134 [main] INFO ebanking - item has been deleted
+2020-11-24 14:34:52,153 [main] INFO ebanking - test failed
+2020-11-24 14:35:37,971 [main] INFO ebanking - logger has created
+2020-11-24 14:35:37,988 [main] INFO ebanking - opening the web page
+2020-11-24 14:35:42,861 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 14:35:52,936 [main] INFO ebanking - item has been deleted
+2020-11-24 14:43:55,383 [main] INFO ebanking - logger has created
+2020-11-24 14:43:55,401 [main] INFO ebanking - opening the web page
+2020-11-24 14:44:00,690 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 14:44:10,767 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-24 14:44:10,782 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 14:45:08,538 [main] INFO ebanking - logger has created
+2020-11-24 14:45:08,555 [main] INFO ebanking - opening the web page
+2020-11-24 14:45:19,377 [main] INFO ebanking - shopping cart has delete button
+2020-11-24 14:45:29,468 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-24 14:45:29,484 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-24 14:47:56,425 [main] INFO ebanking - logger has created
+2020-11-24 14:47:59,743 [main] INFO ebanking - opening excel file
+2020-11-24 14:48:00,223 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:48:00,442 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:48:00,470 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:50:34,630 [main] INFO ebanking - logger has created
+2020-11-24 14:50:36,776 [main] INFO ebanking - opening excel file
+2020-11-24 14:50:37,178 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:50:37,399 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:50:37,430 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:51:59,947 [main] INFO ebanking - logger has created
+2020-11-24 14:52:02,109 [main] INFO ebanking - opening excel file
+2020-11-24 14:52:02,484 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:52:02,696 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:52:02,725 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:54:34,089 [main] INFO ebanking - logger has created
+2020-11-24 14:54:36,758 [main] INFO ebanking - opening excel file
+2020-11-24 14:54:37,164 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:54:37,399 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:54:37,430 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:55:58,811 [main] INFO ebanking - logger has created
+2020-11-24 14:56:02,774 [main] INFO ebanking - opening excel file
+2020-11-24 14:56:03,285 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:56:03,575 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:56:03,619 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:56:19,462 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 14:56:19,488 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 14:56:19,508 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 14:56:21,122 [main] INFO ebanking - sign out
+2020-11-24 14:56:21,125 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:56:21,282 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:56:26,312 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:56:41,703 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 14:56:41,725 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 14:56:41,745 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 14:56:44,670 [main] INFO ebanking - sign out
+2020-11-24 14:57:35,819 [main] INFO ebanking - logger has created
+2020-11-24 14:57:38,126 [main] INFO ebanking - opening excel file
+2020-11-24 14:57:38,516 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:57:38,734 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:57:38,762 [main] INFO ebanking - banner not found fill the form
+2020-11-24 14:59:53,747 [main] INFO ebanking - logger has created
+2020-11-24 14:59:55,829 [main] INFO ebanking - opening excel file
+2020-11-24 14:59:56,207 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 14:59:56,431 [main] INFO ebanking - entered email from the excel file
+2020-11-24 14:59:56,460 [main] INFO ebanking - banner not found fill the form
+2020-11-24 15:05:41,832 [main] INFO ebanking - logger has created
+2020-11-24 15:05:43,980 [main] INFO ebanking - opening excel file
+2020-11-24 15:05:44,371 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:05:44,595 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:05:44,623 [main] INFO ebanking - banner not found fill the form
+2020-11-24 15:08:23,501 [main] INFO ebanking - logger has created
+2020-11-24 15:08:25,929 [main] INFO ebanking - opening excel file
+2020-11-24 15:08:26,332 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:08:26,557 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:08:26,587 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:08:26,636 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:08:26,740 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:08:26,750 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:08:50,767 [main] INFO ebanking - logger has created
+2020-11-24 15:08:53,345 [main] INFO ebanking - opening excel file
+2020-11-24 15:08:53,722 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:08:53,938 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:08:53,967 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:08:54,030 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:08:54,138 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:08:54,147 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:09:50,952 [main] INFO ebanking - logger has created
+2020-11-24 15:09:54,166 [main] INFO ebanking - opening excel file
+2020-11-24 15:09:54,536 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:09:54,761 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:09:54,789 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:09:54,856 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:09:54,978 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:09:54,990 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:10:50,583 [main] INFO ebanking - logger has created
+2020-11-24 15:10:52,916 [main] INFO ebanking - opening excel file
+2020-11-24 15:10:53,296 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:10:53,521 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:10:53,547 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:10:53,600 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:10:53,705 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:10:53,714 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:15:13,453 [main] INFO ebanking - logger has created
+2020-11-24 15:15:16,277 [main] INFO ebanking - opening excel file
+2020-11-24 15:15:16,654 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:15:16,916 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:15:16,946 [main] INFO ebanking - banner not found fill the form
+2020-11-24 15:15:32,999 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 15:15:33,020 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 15:15:33,040 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 15:15:34,993 [main] INFO ebanking - sign out
+2020-11-24 15:15:34,995 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:15:35,169 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:15:35,858 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 15:15:54,235 [main] INFO ebanking - logger has created
+2020-11-24 15:15:56,214 [main] INFO ebanking - opening excel file
+2020-11-24 15:15:56,605 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:15:56,844 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:15:56,874 [main] INFO ebanking - banner not found fill the form
+2020-11-24 15:18:16,565 [main] INFO ebanking - logger has created
+2020-11-24 15:18:18,741 [main] INFO ebanking - opening excel file
+2020-11-24 15:18:19,111 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:18:19,331 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:18:19,359 [main] INFO ebanking - banner not found fill the form
+2020-11-24 15:18:35,362 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 15:18:35,385 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 15:18:35,405 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 15:18:37,320 [main] INFO ebanking - sign out
+2020-11-24 15:18:37,323 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 15:18:37,474 [main] INFO ebanking - entered email from the excel file
+2020-11-24 15:18:38,097 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 16:02:18,301 [main] INFO ebanking - logger has created
+2020-11-24 16:02:21,930 [main] INFO ebanking - opening excel file
+2020-11-24 16:02:22,403 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 16:02:22,618 [main] INFO ebanking - entered email from the excel file
+2020-11-24 16:02:22,646 [main] INFO ebanking - banner not found fill the form
+2020-11-24 16:02:40,200 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 16:02:40,224 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 16:02:40,245 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 16:02:42,250 [main] INFO ebanking - sign out
+2020-11-24 16:02:42,253 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 16:02:42,446 [main] INFO ebanking - entered email from the excel file
+2020-11-24 16:02:42,958 [main] INFO ebanking - found the banner and clearing the email
+2020-11-24 16:39:43,452 [main] INFO ebanking - logger has created
+2020-11-24 16:41:30,389 [main] INFO ebanking - logger has created
+2020-11-24 16:44:13,110 [main] INFO ebanking - logger has created
+2020-11-24 16:45:06,704 [main] INFO ebanking - logger has created
+2020-11-24 16:45:41,927 [main] INFO ebanking - logger has created
+2020-11-24 16:49:21,779 [main] INFO ebanking - logger has created
+2020-11-24 16:52:52,332 [main] INFO ebanking - logger has created
+2020-11-24 16:53:31,153 [main] INFO ebanking - logger has created
+2020-11-24 16:53:33,722 [main] INFO ebanking - opening excel file
+2020-11-24 16:53:34,190 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 16:53:34,434 [main] INFO ebanking - entered email from the excel file
+2020-11-24 16:53:34,463 [main] INFO ebanking - banner not found fill the form
+2020-11-24 16:56:28,638 [main] INFO ebanking - logger has created
+2020-11-24 16:56:28,665 [main] INFO ebanking - opening the web page
+2020-11-24 16:57:10,151 [main] INFO ebanking - logger has created
+2020-11-24 16:57:10,169 [main] INFO ebanking - opening the web page
+2020-11-24 16:58:18,807 [main] INFO ebanking - logger has created
+2020-11-24 16:58:18,823 [main] INFO ebanking - opening the web page
+2020-11-24 17:01:00,726 [main] INFO ebanking - logger has created
+2020-11-24 17:01:00,744 [main] INFO ebanking - opening the web page
+2020-11-24 17:03:00,137 [main] INFO ebanking - logger has created
+2020-11-24 17:03:00,156 [main] INFO ebanking - opening the web page
+2020-11-24 18:07:41,465 [main] INFO ebanking - logger has created
+2020-11-24 18:07:41,491 [main] INFO ebanking - opening the web page
+2020-11-24 18:08:51,488 [main] INFO ebanking - logger has created
+2020-11-24 18:08:51,510 [main] INFO ebanking - opening the web page
+2020-11-24 18:24:34,184 [main] INFO ebanking - logger has created
+2020-11-24 18:24:34,204 [main] INFO ebanking - opening the web page
+2020-11-24 18:32:51,269 [main] INFO ebanking - logger has created
+2020-11-24 18:32:51,288 [main] INFO ebanking - opening the web page
+2020-11-24 18:34:05,053 [main] INFO ebanking - logger has created
+2020-11-24 18:34:05,071 [main] INFO ebanking - opening the web page
+2020-11-24 18:35:02,406 [main] INFO ebanking - logger has created
+2020-11-24 18:35:02,423 [main] INFO ebanking - opening the web page
+2020-11-24 18:39:05,978 [main] INFO ebanking - logger has created
+2020-11-24 18:39:05,995 [main] INFO ebanking - opening the web page
+2020-11-24 18:39:41,587 [main] INFO ebanking - logger has created
+2020-11-24 18:39:41,606 [main] INFO ebanking - opening the web page
+2020-11-24 18:40:16,376 [main] INFO ebanking - logger has created
+2020-11-24 18:40:16,393 [main] INFO ebanking - opening the web page
+2020-11-24 18:42:03,929 [main] INFO ebanking - logger has created
+2020-11-24 18:42:03,945 [main] INFO ebanking - opening the web page
+2020-11-24 18:44:05,435 [main] INFO ebanking - logger has created
+2020-11-24 18:44:05,451 [main] INFO ebanking - opening the web page
+2020-11-24 18:44:39,637 [main] INFO ebanking - logger has created
+2020-11-24 18:44:39,653 [main] INFO ebanking - opening the web page
+2020-11-24 18:45:06,178 [main] INFO ebanking - logger has created
+2020-11-24 18:45:06,194 [main] INFO ebanking - opening the web page
+2020-11-24 18:45:36,649 [main] INFO ebanking - logger has created
+2020-11-24 18:45:36,666 [main] INFO ebanking - opening the web page
+2020-11-24 18:46:33,202 [main] INFO ebanking - logger has created
+2020-11-24 18:46:33,220 [main] INFO ebanking - opening the web page
+2020-11-24 18:47:41,603 [main] INFO ebanking - logger has created
+2020-11-24 18:47:41,619 [main] INFO ebanking - opening the web page
+2020-11-24 18:48:31,130 [main] INFO ebanking - logger has created
+2020-11-24 18:48:31,147 [main] INFO ebanking - opening the web page
+2020-11-24 18:51:55,899 [main] INFO ebanking - logger has created
+2020-11-24 18:51:55,917 [main] INFO ebanking - opening the web page
+2020-11-24 18:55:36,069 [main] INFO ebanking - logger has created
+2020-11-24 18:55:36,086 [main] INFO ebanking - opening the web page
+2020-11-24 18:56:58,951 [main] INFO ebanking - logger has created
+2020-11-24 18:56:58,966 [main] INFO ebanking - opening the web page
+2020-11-24 18:57:29,330 [main] INFO ebanking - logger has created
+2020-11-24 18:57:29,355 [main] INFO ebanking - opening the web page
+2020-11-24 18:58:24,270 [main] INFO ebanking - logger has created
+2020-11-24 18:58:24,286 [main] INFO ebanking - opening the web page
+2020-11-24 18:59:27,318 [main] INFO ebanking - logger has created
+2020-11-24 18:59:27,332 [main] INFO ebanking - opening the web page
+2020-11-24 19:00:14,877 [main] INFO ebanking - logger has created
+2020-11-24 19:00:14,894 [main] INFO ebanking - opening the web page
+2020-11-24 19:02:18,033 [main] INFO ebanking - logger has created
+2020-11-24 19:02:18,054 [main] INFO ebanking - opening the web page
+2020-11-24 19:06:12,845 [main] INFO ebanking - logger has created
+2020-11-24 19:06:12,865 [main] INFO ebanking - opening the web page
+2020-11-24 19:06:53,727 [main] INFO ebanking - logger has created
+2020-11-24 19:06:53,744 [main] INFO ebanking - opening the web page
+2020-11-24 19:09:18,396 [main] INFO ebanking - logger has created
+2020-11-24 19:09:18,413 [main] INFO ebanking - opening the web page
+2020-11-24 20:41:57,886 [main] INFO ebanking - logger has created
+2020-11-24 20:42:02,150 [main] INFO ebanking - opening excel file
+2020-11-24 20:42:02,617 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 20:44:22,464 [main] INFO ebanking - logger has created
+2020-11-24 20:44:24,695 [main] INFO ebanking - opening excel file
+2020-11-24 20:44:25,153 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 20:44:25,406 [main] INFO ebanking - entered email from the excel file
+2020-11-24 20:44:25,438 [main] INFO ebanking - banner not found fill the form
+2020-11-24 20:44:40,616 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 20:51:19,396 [main] INFO ebanking - logger has created
+2020-11-24 20:51:21,620 [main] INFO ebanking - opening excel file
+2020-11-24 20:51:22,077 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 20:51:22,316 [main] INFO ebanking - entered email from the excel file
+2020-11-24 20:51:22,344 [main] INFO ebanking - banner not found fill the form
+2020-11-24 20:51:23,974 [main] INFO ebanking - invalid first name
+2020-11-24 20:51:36,947 [main] INFO ebanking - invalid home phone
+2020-11-24 20:51:39,133 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 20:55:19,264 [main] INFO ebanking - logger has created
+2020-11-24 20:55:21,890 [main] INFO ebanking - opening excel file
+2020-11-24 20:55:22,276 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 20:55:22,504 [main] INFO ebanking - entered email from the excel file
+2020-11-24 20:55:22,535 [main] INFO ebanking - banner not found fill the form
+2020-11-24 20:55:24,137 [main] INFO ebanking - invalid first name
+2020-11-24 20:55:37,051 [main] INFO ebanking - invalid home phone
+2020-11-24 20:55:38,633 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 20:55:38,634 [main] INFO ebanking - banner should display 
+2020-11-24 21:46:33,174 [main] INFO ebanking - logger has created
+2020-11-24 21:46:35,415 [main] INFO ebanking - opening excel file
+2020-11-24 21:46:35,896 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:46:36,138 [main] INFO ebanking - entered email from the excel file
+2020-11-24 21:46:36,166 [main] INFO ebanking - banner not found fill the form
+2020-11-24 21:46:51,105 [main] INFO ebanking - invalid home phone
+2020-11-24 21:46:54,183 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 21:46:54,183 [main] INFO ebanking - banner should display 
+2020-11-24 21:46:55,082 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:49:58,093 [main] INFO ebanking - logger has created
+2020-11-24 21:50:01,091 [main] INFO ebanking - opening excel file
+2020-11-24 21:50:01,543 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:50:01,788 [main] INFO ebanking - entered email from the excel file
+2020-11-24 21:50:01,816 [main] INFO ebanking - banner not found fill the form
+2020-11-24 21:50:17,543 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 21:50:17,566 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 21:50:17,585 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 21:50:19,349 [main] INFO ebanking - sign out
+2020-11-24 21:50:19,353 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:50:19,532 [main] INFO ebanking - entered email from the excel file
+2020-11-24 21:50:24,587 [main] INFO ebanking - banner not found fill the form
+2020-11-24 21:50:39,494 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 21:50:39,515 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 21:50:39,537 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 21:50:42,108 [main] INFO ebanking - sign out
+2020-11-24 21:52:30,481 [main] INFO ebanking - logger has created
+2020-11-24 21:52:37,561 [main] INFO ebanking - opening excel file
+2020-11-24 21:52:37,931 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:52:38,141 [main] INFO ebanking - entered email from the excel file
+2020-11-24 21:52:38,168 [main] INFO ebanking - banner not found fill the form
+2020-11-24 21:52:54,203 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 21:52:54,226 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 21:52:54,246 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 21:52:55,662 [main] INFO ebanking - sign out
+2020-11-24 21:52:55,665 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-24 21:52:55,829 [main] INFO ebanking - entered email from the excel file
+2020-11-24 21:53:00,881 [main] INFO ebanking - banner not found fill the form
+2020-11-24 21:53:18,340 [main] INFO ebanking - filled the form using excel file data 
+2020-11-24 21:53:18,365 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-24 21:53:18,386 [main] INFO ebanking - user name displayed at top right corner
+2020-11-24 21:53:22,191 [main] INFO ebanking - sign out
+2020-11-24 22:02:10,787 [main] INFO ebanking - logger has created
+2020-11-24 22:02:10,804 [main] INFO ebanking - opening the web page
+2020-11-24 22:03:37,516 [main] INFO ebanking - logger has created
+2020-11-24 22:03:37,535 [main] INFO ebanking - opening the web page
+2020-11-24 22:05:46,891 [main] INFO ebanking - logger has created
+2020-11-24 22:05:46,919 [main] INFO ebanking - opening the web page
+2020-11-24 22:09:58,626 [main] INFO ebanking - logger has created
+2020-11-24 22:09:58,646 [main] INFO ebanking - opening the web page
+2020-11-24 22:10:14,993 [main] INFO ebanking - logger has created
+2020-11-24 22:10:15,012 [main] INFO ebanking - opening the web page
+2020-11-24 22:14:51,704 [main] INFO ebanking - logger has created
+2020-11-24 22:14:51,720 [main] INFO ebanking - opening the web page
+2020-11-24 22:17:11,297 [main] INFO ebanking - logger has created
+2020-11-24 22:17:11,319 [main] INFO ebanking - opening the web page
+2020-11-24 22:17:27,279 [main] INFO ebanking - logger has created
+2020-11-24 22:17:27,296 [main] INFO ebanking - opening the web page
+2020-11-24 22:30:23,470 [main] INFO ebanking - logger has created
+2020-11-24 22:30:23,489 [main] INFO ebanking - opening the web page
+2020-11-24 22:31:14,035 [main] INFO ebanking - logger has created
+2020-11-24 22:31:14,052 [main] INFO ebanking - opening the web page
+2020-11-25 09:04:49,753 [main] INFO ebanking - logger has created
+2020-11-25 09:04:49,773 [main] INFO ebanking - opening the web page
+2020-11-25 09:06:25,362 [main] INFO ebanking - logger has created
+2020-11-25 09:07:40,293 [main] INFO ebanking - logger has created
+2020-11-25 09:07:40,314 [main] INFO ebanking - opening the web page
+2020-11-25 09:07:45,423 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:07:55,496 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:07:55,516 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:10:25,487 [main] INFO ebanking - logger has created
+2020-11-25 09:10:25,505 [main] INFO ebanking - opening the web page
+2020-11-25 09:10:28,555 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:10:30,184 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:10:30,555 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:10:30,563 [main] INFO ebanking - slider has not moved
+2020-11-25 09:11:13,411 [main] INFO ebanking - logger has created
+2020-11-25 09:11:13,431 [main] INFO ebanking - opening the web page
+2020-11-25 09:11:20,679 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:11:30,756 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:11:30,773 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:11:30,808 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:11:33,194 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:11:33,558 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:11:33,565 [main] INFO ebanking - slider has not moved
+2020-11-25 09:15:30,609 [main] INFO ebanking - logger has created
+2020-11-25 09:15:30,627 [main] INFO ebanking - opening the web page
+2020-11-25 09:15:36,125 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:15:46,218 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:15:46,231 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:15:46,261 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:15:48,727 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:15:49,088 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:17:33,031 [main] INFO ebanking - logger has created
+2020-11-25 09:17:33,049 [main] INFO ebanking - opening the web page
+2020-11-25 09:17:38,974 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:17:49,043 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:17:49,060 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:17:49,096 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:17:50,764 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:17:51,125 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:17:51,132 [main] INFO ebanking - slider has moved
+2020-11-25 09:21:47,860 [main] INFO ebanking - logger has created
+2020-11-25 09:21:47,902 [main] INFO ebanking - opening the web page
+2020-11-25 09:22:10,332 [main] INFO ebanking - logger has created
+2020-11-25 09:22:10,349 [main] INFO ebanking - opening the web page
+2020-11-25 09:25:24,868 [main] INFO ebanking - logger has created
+2020-11-25 09:25:24,883 [main] INFO ebanking - opening the web page
+2020-11-25 09:26:13,228 [main] INFO ebanking - logger has created
+2020-11-25 09:26:13,251 [main] INFO ebanking - opening the web page
+2020-11-25 09:27:28,694 [main] INFO ebanking - logger has created
+2020-11-25 09:27:28,712 [main] INFO ebanking - opening the web page
+2020-11-25 09:33:56,609 [main] INFO ebanking - logger has created
+2020-11-25 09:33:56,625 [main] INFO ebanking - opening the web page
+2020-11-25 09:34:07,743 [main] INFO ebanking - (1792, 0)
+2020-11-25 09:34:09,084 [main] INFO ebanking - map has moved
+2020-11-25 09:40:02,266 [main] INFO ebanking - logger has created
+2020-11-25 09:40:04,436 [main] INFO ebanking - opening excel file
+2020-11-25 09:40:04,923 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:40:05,279 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:40:05,303 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:42:09,634 [main] INFO ebanking - logger has created
+2020-11-25 09:42:11,732 [main] INFO ebanking - opening excel file
+2020-11-25 09:42:12,118 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:42:12,416 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:42:12,442 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:42:28,288 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:42:28,310 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:42:28,329 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:42:29,722 [main] INFO ebanking - sign out
+2020-11-25 09:42:29,724 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:42:29,914 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:42:34,965 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:42:49,701 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:42:49,721 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:42:49,741 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:42:51,415 [main] INFO ebanking - sign out
+2020-11-25 09:43:19,729 [main] INFO ebanking - logger has created
+2020-11-25 09:43:21,774 [main] INFO ebanking - opening excel file
+2020-11-25 09:43:22,170 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:43:22,452 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:43:22,496 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:44:20,392 [main] INFO ebanking - logger has created
+2020-11-25 09:44:22,668 [main] INFO ebanking - opening excel file
+2020-11-25 09:44:23,034 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:44:23,285 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:44:23,326 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:44:29,773 [main] INFO ebanking - invalid first name
+2020-11-25 09:44:43,989 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:44:43,990 [main] INFO ebanking - banner should display 
+2020-11-25 09:44:44,004 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:45:42,168 [main] INFO ebanking - logger has created
+2020-11-25 09:45:44,504 [main] INFO ebanking - opening excel file
+2020-11-25 09:45:44,903 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:45:45,187 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:45:45,210 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:46:01,243 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:46:01,264 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:46:01,284 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:46:02,946 [main] INFO ebanking - sign out
+2020-11-25 09:46:02,949 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:46:03,150 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:46:08,180 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:46:23,035 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:46:23,055 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:46:23,076 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:46:26,769 [main] INFO ebanking - sign out
+2020-11-25 09:51:37,390 [main] INFO ebanking - logger has created
+2020-11-25 09:51:37,409 [main] INFO ebanking - opening the web page
+2020-11-25 09:51:44,466 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:51:54,526 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:51:54,542 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:51:54,576 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:51:56,404 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:51:56,793 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:51:56,800 [main] INFO ebanking - slider has moved
+2020-11-25 09:51:58,152 [main] INFO ebanking - opening excel file
+2020-11-25 09:51:58,522 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:51:58,741 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:52:08,775 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:52:18,796 [main] INFO ebanking - opening the web page
+2020-11-25 09:52:20,482 [main] INFO ebanking - (1792, 0)
+2020-11-25 09:52:21,927 [main] INFO ebanking - map has moved
+2020-11-25 09:53:15,135 [main] INFO ebanking - logger has created
+2020-11-25 09:53:15,153 [main] INFO ebanking - opening the web page
+2020-11-25 09:53:20,664 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:53:30,761 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:53:30,776 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:53:30,811 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:53:32,588 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:53:32,963 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:53:32,970 [main] INFO ebanking - slider has moved
+2020-11-25 09:53:33,765 [main] INFO ebanking - opening excel file
+2020-11-25 09:53:34,128 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:53:34,337 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:53:44,362 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:54:00,071 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:54:00,089 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:54:00,108 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:54:07,310 [main] INFO ebanking - sign out
+2020-11-25 09:54:07,313 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:54:07,487 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:54:12,547 [main] INFO ebanking - banner not found fill the form
+2020-11-25 09:54:27,280 [main] INFO ebanking - filled the form using excel file data 
+2020-11-25 09:54:27,301 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-11-25 09:54:27,321 [main] INFO ebanking - user name displayed at top right corner
+2020-11-25 09:54:29,297 [main] INFO ebanking - sign out
+2020-11-25 09:54:29,301 [main] INFO ebanking - opening the web page
+2020-11-25 09:54:31,370 [main] INFO ebanking - (1792, 0)
+2020-11-25 09:54:32,609 [main] INFO ebanking - map has moved
+2020-11-25 09:54:46,073 [main] INFO ebanking - logger has created
+2020-11-25 09:54:46,096 [main] INFO ebanking - opening the web page
+2020-11-25 09:54:52,710 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:55:02,803 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:55:02,820 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:55:02,856 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:55:04,547 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:55:04,915 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:55:04,923 [main] INFO ebanking - slider has moved
+2020-11-25 09:55:05,745 [main] INFO ebanking - opening excel file
+2020-11-25 09:55:06,112 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:55:06,318 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:55:06,832 [main] INFO ebanking - found the banner and clearing the email
+2020-11-25 09:55:06,881 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:55:06,998 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:55:07,511 [main] INFO ebanking - found the banner and clearing the email
+2020-11-25 09:55:07,556 [main] INFO ebanking - opening the web page
+2020-11-25 09:55:08,994 [main] INFO ebanking - (1792, 0)
+2020-11-25 09:55:10,455 [main] INFO ebanking - map has moved
+2020-11-25 09:55:26,161 [main] INFO ebanking - logger has created
+2020-11-25 09:55:26,176 [main] INFO ebanking - opening the web page
+2020-11-25 09:55:31,570 [main] INFO ebanking - shopping cart has delete button
+2020-11-25 09:55:41,671 [main] INFO ebanking - item is removed from the shopping/cart
+2020-11-25 09:55:41,688 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-11-25 09:55:41,722 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-11-25 09:55:43,345 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-11-25 09:55:43,748 [main] INFO ebanking - slider has moved to $16-$20
+2020-11-25 09:55:43,756 [main] INFO ebanking - slider has moved
+2020-11-25 09:55:44,603 [main] INFO ebanking - opening excel file
+2020-11-25 09:55:44,944 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:55:45,172 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:55:46,466 [main] INFO ebanking - found the banner and clearing the email
+2020-11-25 09:55:46,513 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-11-25 09:55:46,619 [main] INFO ebanking - entered email from the excel file
+2020-11-25 09:55:47,304 [main] INFO ebanking - found the banner and clearing the email
+2020-11-25 09:55:47,349 [main] INFO ebanking - opening the web page
+2020-11-25 09:55:49,798 [main] INFO ebanking - (1792, 0)
+2020-11-25 09:55:51,196 [main] INFO ebanking - map has moved
+2020-12-01 12:00:54,790 [main] INFO ebanking - logger has created
+2020-12-01 12:00:54,823 [main] INFO ebanking - opening the web page
+2020-12-01 12:00:59,507 [main] INFO ebanking - shopping cart has delete button
+2020-12-01 12:01:09,616 [main] INFO ebanking - item is removed from the shopping/cart
+2020-12-01 12:01:09,633 [main] INFO ebanking - test passed--Banner Displayed -- Your Shopping Cart is Empty  
+2020-12-01 12:01:09,669 [main] INFO ebanking - on mouse hover button- sub navigation appear
+2020-12-01 12:01:11,387 [main] INFO ebanking - test passed--Summer Dress Displayed 
+2020-12-01 12:01:11,788 [main] INFO ebanking - slider has moved to $16-$20
+2020-12-01 12:01:11,795 [main] INFO ebanking - slider has moved
+2020-12-01 12:01:13,011 [main] INFO ebanking - opening excel file
+2020-12-01 12:01:13,477 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-12-01 12:01:13,809 [main] INFO ebanking - entered email from the excel file
+2020-12-01 12:01:23,826 [main] INFO ebanking - banner not found fill the form
+2020-12-01 12:01:38,880 [main] INFO ebanking - filled the form using excel file data 
+2020-12-01 12:01:38,897 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-12-01 12:01:38,916 [main] INFO ebanking - user name displayed at top right corner
+2020-12-01 12:01:41,061 [main] INFO ebanking - sign out
+2020-12-01 12:01:41,065 [main] INFO ebanking - getting the data from excel, storing into variables
+2020-12-01 12:01:41,243 [main] INFO ebanking - entered email from the excel file
+2020-12-01 12:01:46,300 [main] INFO ebanking - banner not found fill the form
+2020-12-01 12:02:03,900 [main] INFO ebanking - filled the form using excel file data 
+2020-12-01 12:02:03,926 [main] INFO ebanking - Completing registration- takes user to My Account page 
+2020-12-01 12:02:03,948 [main] INFO ebanking - user name displayed at top right corner
+2020-12-01 12:02:10,123 [main] INFO ebanking - sign out
+2020-12-01 12:02:10,128 [main] INFO ebanking - opening the web page
+2020-12-01 12:02:13,825 [main] INFO ebanking - (1792, 0)
+2020-12-01 12:02:15,360 [main] INFO ebanking - map has moved
